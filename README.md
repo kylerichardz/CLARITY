@@ -6,6 +6,8 @@
   ![Streamlit](https://img.shields.io/badge/Streamlit-1.32.0-red)
   ![Google Gemini](https://img.shields.io/badge/Gemini-1.5_Flash-orange)
   ![License](https://img.shields.io/badge/License-MIT-green)
+  
+  ### [🚀 Try the Live Demo](https://clarityvision-bh4tcxnyl4genkx6g2mkv4.streamlit.app/)
 </div>
 
 ---
