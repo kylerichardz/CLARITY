@@ -1,0 +1,15 @@
+clarity/
+├── .env
+├── requirements.txt
+├── README.md
+├── src/
+│   ├── __init__.py
+│   ├── app.py
+│   ├── gemini_service.py
+│   ├── image_processor.py
+│   └── utils.py
+└── tests/
+    ├── __init__.py
+    ├── test_gemini_service.py
+    ├── test_image_processor.py
+    └── test_utils.py 
