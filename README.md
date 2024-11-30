@@ -120,5 +120,5 @@ For questions and support, please open an issue in the GitHub repository.
 ---
 
 <div align="center">
-  <p>Made with ❤️ by Quinn</p>
+  <p>Made with ❤️ by Kyle</p>
 </div>
